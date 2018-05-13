@@ -25,6 +25,7 @@ Router.prototype.goBack = function () {
 
 export default new Router({
   routes: [
+    {path: '/', component: rankings},
     {path: '/find', component: find},
     {path: '/message', component: message},
     {path: '/rankings', component: rankings},
