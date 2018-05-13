@@ -1,0 +1,79 @@
+[
+  {
+    "filmName": "后来的我们",
+    "filmPic": "http://img1.imgtn.bdimg.com/it/u=2478470634,129762007&fm=11&gp=0.jpg",
+    "filmInfo": "剧情、爱情",
+    "filmContent": "这是一个爱情故事，讲述了一对男女在过年回家的火车上相识，从那之后，二人的命运便纠缠在一起，历经恋爱、分手、错过、重逢的故事",
+    "filmId": 1
+  },
+  {
+    "filmName": "小萝莉的猴神大叔",
+    "filmPic": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510956726.webp",
+    "filmInfo": "剧情、喜剧、动作",
+    "filmContent": "电影讲述了一个拥有虔诚宗教信仰的单纯印度男人帮助巴基斯坦哑女与父母重聚的故事。印度教教徒帕万（萨尔曼·汗 饰）在一次机缘巧合下结识了与母亲走失并有语言障碍的穆斯林小女孩沙希达（哈尔莎莉·马尔霍特 饰）。在得知沙希达是巴基斯坦人后，帕万决定帮助她回家，可在回巴基斯坦途中却四处碰壁，遭遇领事馆冲突、被旅游局欺骗之后，帕万立志将不惜一切代价尽其所能带沙希达回到自己的家乡与家人团聚。",
+    "filmId": 2
+  },
+  {
+    "filmName": "复仇者联盟3",
+    "filmPic": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=70ccec74c495d143da76e3254bcbe53f/d1a20cf431adcbef44627e71a0af2edda3cc9f76.jpg",
+    "filmInfo": "动作、科幻、冒险",
+    "filmContent": "该片讲述复仇者联盟和他们的超级英雄盟友们必须愿意牺牲一切，才能在灭霸毁灭宇宙之前将其击败",
+    "filmId": 3
+  },
+  {
+    "filmName": "巴霍巴利王2",
+    "filmPic": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/whfpf%3D180%2C140%2C50/sign=4805d790c4fcc3ceb4959a73f478e7b0/d4628535e5dde7119ffa1844abefce1b9d166153.jpg",
+    "filmInfo": "剧情、动作、奇幻",
+    "filmContent": "该片讲述了原本被立为王储的巴霍巴利，由于巴拉拉德夫德斯的诡计，使得巴拉拉德夫德斯成为国王，并且杀害了巴霍巴利，25年后，巴霍巴利的儿子摩哂陀向巴拉拉德夫德斯复仇的故事",
+    "filmId": 4
+  },
+  {
+    "filmName": "狂暴巨兽",
+    "filmPic": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=66d74e6567600c33f079d9ce22773632/d788d43f8794a4c270aa6a5a02f41bd5ad6e3931.jpg",
+    "filmInfo": "动作、科幻、冒险",
+    "filmContent": "该片根据80年代街机游戏改编，讲述了灵长动物学家抚养了银背大猩猩乔治，但它意外受辐射变异，其他怪物也崛起，开始肆虐城市，人类与之展开生死大战的故事",
+    "filmId": 5
+  },
+  {
+    "filmName": "头号玩家",
+    "filmPic": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e5fc204d15d8bc3ec60801ccbab0c123/279759ee3d6d55fb3b86e35161224f4a20a4dd01.jpg",
+    "filmInfo": "动作、科幻、冒险",
+    "filmContent": "该片根据恩斯特·克莱恩同名小说改编，讲述了一个现实生活中无所寄托、沉迷游戏的大男孩，凭着对虚拟游戏设计者的深入剖析，历经磨难，找到隐藏在关卡里的三把钥匙，成功通关游戏，并且还收获了网恋女友的故事",
+    "filmId": 6
+  },
+  {
+    "filmName": "青年马克思",
+    "filmPic": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=70989fa2ad44ad342ebf8081e8996bc9/4afbfbedab64034f994bff49a3c379310b551dfe.jpg",
+    "filmInfo": "剧情、传记、历史",
+    "filmContent": "该片讲述了年轻的马克思1844年在巴黎与恩格斯相识相知，因共同的理想信念，致力于彻底改变世界。后来，两人合作撰写《共产党宣言》的伟大历程",
+    "filmId": 7
+  },
+  {
+    "filmName": "战神记",
+    "filmPic": "https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e33ba5efcbea15ce41eee70f8e3b5dce/d1160924ab18972b3407cba0e4cd7b899e510a9f.jpg",
+    "filmInfo": "奇幻、冒险",
+    "filmContent": "《战神记》是连载于纵横中文网的小说，作者是我是写手。",
+    "filmId": 8
+  },
+  {
+    "filmName": "冰雪女王3",
+    "filmPic": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=9cdf43f93ad12f2ece05a96677f9b25f/a8773912b31bb0511f2a91063a7adab44aede096.jpg",
+    "filmInfo": "动作、冒险、家庭",
+    "filmContent": "不断遇到麻烦可算是凯与格尔达这对姐弟的特点了，毕竟他们是在冰雪的国度被矮人们养大的。随着他们长大成人，等待他们的麻烦也升级了。这一次，格尔达与新认识的小伙伴罗兰去寻找传说中的许愿球，不想却召唤出封印在许愿球中的邪恶力量，这对姐弟是否能够逢凶化吉，还世界一个和平？",
+    "filmId": 9
+  },
+  {
+    "filmName": "遇见你真好",
+    "filmPic": "http://img3.imgtn.bdimg.com/it/u=1205336228,1829207260&fm=214&gp=0.jpg",
+    "filmInfo": "喜剧、爱情",
+    "filmContent": "遇见你真好 是朴蝶西写的网络小说连载于红袖添香网",
+    "filmId": 10
+  },
+  {
+    "filmName": "唐人街探案2",
+    "filmPic": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511355624.webp",
+    "filmInfo": "喜剧、动作、悬疑、犯罪",
+    "filmContent": "唐仁（王宝强 饰）为巨额奖金欺骗秦风（刘昊然 饰）到纽约参加世界名侦探大赛，然而随着和世界各国侦探们啼笑皆非的较量，两人却发现了隐藏在这次挑战背后的更大秘密...",
+    "filmId": 11
+  }
+]
